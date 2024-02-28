@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/user/Laba_2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  -std=c++17 -g -o CMakeFiles\\main.dir\\Laba_2.cpp.obj -c C:\\Users\\user\\Laba_2\\Laba_2.cpp",
+  "file": "C:\\Users\\user\\Laba_2\\Laba_2.cpp",
+  "output": "CMakeFiles\\main.dir\\Laba_2.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Laba_2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  -std=c++17 -g -o CMakeFiles\\main.dir\\Laba_2_1.cpp.obj -c C:\\Users\\user\\Laba_2\\Laba_2_1.cpp",
+  "file": "C:\\Users\\user\\Laba_2\\Laba_2_1.cpp",
+  "output": "CMakeFiles\\main.dir\\Laba_2_1.cpp.obj"
+}
+]
