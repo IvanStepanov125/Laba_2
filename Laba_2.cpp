@@ -22,7 +22,11 @@ int main(){
         cin >> chisl;
         cout << "Введите знаменатель" << endl;
         cin >> zname;
-        otv = Drob(chisl, zname);
+        try{
+            otv = Drob(chisl, zname);
+        }catch(const char* m){
+            cout << m; return 1;
+        }
     }
     otv.Info();
     return 0;
